@@ -482,7 +482,7 @@ player[-2][u]##because of this , i am disappointed and would not recommend this 
 ##so , i bought apex ad-2600 in november ' 03 from amazon . 
 run[+2], dvd[+2]##it 's running great for all the dvds i have and rented . 
 ##i have a dvd burner . 
-run[+3], dvd media[+2]#apex ad-2600 runs all the dvd media including dvd + r/rw and dvd-r / rw ( unlike sony or panasonic - one supports only + r/rw and another supports - r/rw ) . 
+run[+3], dvd media[+2]##apex ad-2600 runs all the dvd media including dvd + r/rw and dvd-r / rw ( unlike sony or panasonic - one supports only + r/rw and another supports - r/rw ) . 
 dvd player[+3]##i think , apex is the best dvd player you can get for the price . 
 ##some of my friends had well branded dvd-players but they keep complaining that sometime it stucks and sucks ! 
 apex[+2]##most of them are already switched to apex and they are happy . 
